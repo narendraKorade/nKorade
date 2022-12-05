@@ -1,0 +1,37 @@
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.row{
+    font-family:"montserrat-bold";
+    font-size:3rem;
+}
+
+.navbar{
+    padding:0 0 4rem;
+}
+
+.navbar-brand {
+   font-size:2.5rem;
+   font-family:"ubuntu";
+}
+
+.navbar-item{
+    padding:0 45px;
+}
+.navbar-link{
+    font-family:"montserrat";
+    font-size:"1.5rem";
+}
+.para{
+    padding:1rem;
+}
+.image-section{
+
+}
+
+.image-cake{
+    width:70%;
+    margin:0 2%;
+    transform:rotate(15deg);
+}
